@@ -23,5 +23,5 @@ deploy:
   skip_cleanup: true # prevents travis from deleting the build
   provider: heroku
   app: boilerplate-zm # see README
-  api_key:
-    secure: YOUR-***ENCRYPTED***-API-KEY-HERE # see README
+  # api_key:
+  #   secure: YOUR-***ENCRYPTED***-API-KEY-HERE # see README
